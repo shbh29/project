@@ -1,0 +1,8 @@
+  git init
+  git add mcneuron.py 
+  git commit -m "First Program for start"
+  git remote add Shubham https://github.com/shbh29/project.git
+  git config --global user.name shbh29
+  git config --global user.email shbh29@gmail.com
+  git push Shubham master
+
